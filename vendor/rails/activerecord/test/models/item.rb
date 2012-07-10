@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class AbstractItem < ActiveRecord::Base
   self.abstract_class = true
   has_one :tagging, :as => :taggable

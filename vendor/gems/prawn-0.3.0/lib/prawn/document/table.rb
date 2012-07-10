@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # table.rb : Simple table drawing functionality
 #

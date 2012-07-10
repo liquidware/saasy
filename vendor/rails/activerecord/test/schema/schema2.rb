@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActiveRecord::Schema.define do
 
   Course.connection.create_table :courses, :force => true do |t|

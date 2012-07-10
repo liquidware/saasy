@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 unless(defined?($__lockfile__) or defined?(Lockfile))
 
   require 'socket'

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Prints a list of all of the glyphs that can be rendered by Adobe's built
 # in fonts, along with their character widths and WinAnsi codes.  Be sure

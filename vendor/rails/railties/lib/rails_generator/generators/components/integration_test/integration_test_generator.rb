@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class IntegrationTestGenerator < Rails::Generator::NamedBase
   default_options :skip_migration => false
 

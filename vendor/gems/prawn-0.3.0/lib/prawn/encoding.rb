@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Copyright September 2008, Gregory Brown, James Healy  All Rights Reserved.
 #

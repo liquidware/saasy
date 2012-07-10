@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   # A session store backed by an Active Record class.  A default class is
   # provided, but any object duck-typing to an Active Record Session class

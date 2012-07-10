@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # page_geometry.rb : Describes PDF page geometries
 #

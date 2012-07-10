@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example demonstrates usage of Document#text with the :align option.
 # Available options are :left, :right, and :center, with :left as default.

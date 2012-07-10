@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Rails
   class Git < Scm
     def self.clone(repos, branch=nil)

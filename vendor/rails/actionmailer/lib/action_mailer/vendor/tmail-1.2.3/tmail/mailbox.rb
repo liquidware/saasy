@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 =begin rdoc
 
 = Mailbox and Mbox interaction class

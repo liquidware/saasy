@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Adds the 'around_level' method to Logger.
 
 class Logger

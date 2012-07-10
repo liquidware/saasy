@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 begin
   # See http://bogomips.org/fast_xs/ by Eric Wong
   require 'fast_xs'

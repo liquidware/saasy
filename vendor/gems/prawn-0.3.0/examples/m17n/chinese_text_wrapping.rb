@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Some text is not usefully wrapped by our naive_wrap which depends on 
 # spaces.  This example shows how to wrap by character instead.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Object
   # Dumps object in JSON (JavaScript Object Notation). See www.json.org for more info.
   def to_json(options = {})

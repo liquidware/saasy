@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Subscription < ActiveRecord::Base
   extend ActiveSupport::Memoizable
   class SubscriptionError < RuntimeError; end

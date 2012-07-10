@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Generates a couple simple tables, including some UTF-8 text cells.
 # Although this does not show all of the options available to table, the most

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'test/unit'
 require File.dirname(__FILE__) + '/template_handler_test_mocks'
 require File.dirname(__FILE__) + '/../lib/prawnto'

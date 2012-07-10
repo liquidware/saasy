@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates the :underline_header border style for Document#table.
 #

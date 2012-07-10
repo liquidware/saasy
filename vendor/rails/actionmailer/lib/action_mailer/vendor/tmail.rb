@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Prefer gems to the bundled libs.
 require 'rubygems'
 

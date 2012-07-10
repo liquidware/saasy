@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Topic < ActiveRecord::Base
   named_scope :base
   named_scope :written_before, lambda { |time|

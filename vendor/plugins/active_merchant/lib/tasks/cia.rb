@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Figure out the root path of this app. The default method will assume that 
 # its the same as the location of the running Rakefile
 ROOT = File.expand_path(FileUtils.pwd) + '/'

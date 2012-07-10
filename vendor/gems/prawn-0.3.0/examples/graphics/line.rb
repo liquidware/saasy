@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # The very first Prawn example.  Here for nostalgia's sake.
 #

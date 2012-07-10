@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 require 'active_support/multibyte/chars'
 require 'active_support/multibyte/exceptions'

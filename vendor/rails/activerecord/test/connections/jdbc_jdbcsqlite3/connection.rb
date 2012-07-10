@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using SQLite3 via JRuby, activerecord-jdbc-adapter and activerecord-jdbcsqlite3-adapter\n"
 require_dependency 'models/course'
 require 'logger'

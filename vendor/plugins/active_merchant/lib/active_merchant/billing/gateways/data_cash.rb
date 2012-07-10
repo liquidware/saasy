@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Authors::    MoneySpyder, http://moneyspyder.co.uk and E-consultancy, http://www.e-consultancy.com
 
 module ActiveMerchant

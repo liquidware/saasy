@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # FIXME: Introducing TTFunk into Prawn broke this example and a cooresponding
 # test.  Ticket: #139

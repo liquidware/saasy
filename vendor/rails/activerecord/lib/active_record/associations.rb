@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   class HasManyThroughAssociationNotFoundError < ActiveRecordError #:nodoc:
     def initialize(owner_class_name, reflection)

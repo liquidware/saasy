@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Module
   # Returns String#underscore applied to the module name minus trailing classes.
   #

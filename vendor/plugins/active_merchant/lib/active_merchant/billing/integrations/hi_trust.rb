@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/hi_trust/helper.rb'
 require File.dirname(__FILE__) + '/hi_trust/notification.rb'
 require File.dirname(__FILE__) + '/hi_trust/return.rb'

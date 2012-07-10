@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Utilities that are only used in the testing code
 require 'stringio'
 

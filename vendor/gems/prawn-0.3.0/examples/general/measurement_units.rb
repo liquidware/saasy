@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Generates a ruler and also demonstrates prawn/measurement_extensions.
 # It's better to run this example and examine its output than to worry about

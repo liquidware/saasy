@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActionMailer
   module TestHelper
     # Asserts that the number of emails sent matches the given number.

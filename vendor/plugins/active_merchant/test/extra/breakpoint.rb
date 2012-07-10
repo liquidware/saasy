@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # The Breakpoint library provides the convenience of
 # being able to inspect and modify state, diagnose
 # bugs all via IRB by simply setting breakpoints in

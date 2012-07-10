@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "cases/helper"
 
 class FirebirdConnectionTest < ActiveRecord::TestCase

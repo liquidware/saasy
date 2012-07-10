@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/payflow'
 require File.dirname(__FILE__) + '/payflow_express_uk' 
 

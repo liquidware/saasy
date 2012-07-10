@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   module Reflection # :nodoc:
     def self.included(base)

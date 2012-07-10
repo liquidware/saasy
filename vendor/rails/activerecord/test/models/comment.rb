@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Comment < ActiveRecord::Base
   named_scope :containing_the_letter_e, :conditions => "comments.body LIKE '%e%'"
   

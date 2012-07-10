@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "cases/helper"
 
 # Without using prepared statements, it makes no sense to test

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Copyright 2006-2007 JanRain, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License"); you

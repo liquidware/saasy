@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A base class with no predefined methods that tries to behave like Builder's
 # BlankSlate in Ruby 1.9. In Ruby pre-1.9, this is actually the
 # Builder::BlankSlate class.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Author::    MoneySpyder, www.moneyspyder.co.uk
 require File.dirname(__FILE__) + '/../../test_helper'
 

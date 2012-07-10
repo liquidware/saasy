@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   # Active Record automatically timestamps create and update operations if the table has fields
   # named created_at/created_on or updated_at/updated_on.

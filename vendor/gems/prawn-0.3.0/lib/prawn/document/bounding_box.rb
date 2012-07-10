@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # bounding_box.rb : Implements a mechanism for shifting the coordinate space
 #

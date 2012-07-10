@@ -1,0 +1,31 @@
+<% title 'Streams' %>
+
+<%= link_to('Create Stream', { :action => 'create'}, :method => :post) %>
+
+<br>
+<br>
+
+<table border="0" width="100%">
+  <tr>
+    <th></th>
+    <th>Name</th>
+    <th>Pid</th>
+    <th>Status</th>
+    <th width="200px">Actions</th>
+  </tr>
+  <% @streams.each do |stream| %>
+    <tr>
+      <td><%= image_tag("videotestsrc-icon.jpg", :size => "103x77", :alt => "videotestsrc") %></td>
+      <td><%= stream.name %></td>
+      <td><%= stream.pid %></td>
+      <td><%= stream.status %></td>
+      <td>
+        <%= link_to('Edit', { :action => 'edit', :id => stream.id}, :method => :get  ) %>
+        <div style="float: right">
+				<%= button_to('Destroy', {:controller => :streams,
+      		:action => 'destroy', :id => stream.id }, :method => :delete ) %>
+				</div>
+      </td>
+    </tr>
+  <% end %>
+</table>

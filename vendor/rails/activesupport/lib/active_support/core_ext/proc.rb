@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Proc #:nodoc:
   def bind(object)
     block, time = self, Time.now

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Contact < ActiveRecord::Base
   # mock out self.columns so no pesky db is needed for these tests
   def self.column(name, sql_type = nil, options = {})

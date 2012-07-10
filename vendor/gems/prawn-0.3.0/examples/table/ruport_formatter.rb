@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # A simple proof of concept of building a Prawn based PDF formatter for
 # Ruport tables.  Requires Ruby Reports to run.

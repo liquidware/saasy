@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'abstract_unit'
 
 # You need to start a memcached server inorder to run these tests

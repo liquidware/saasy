@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActionMailer #:nodoc:
   # Action Mailer allows you to send email from your application using a mailer model and views.
   #

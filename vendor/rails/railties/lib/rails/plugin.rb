@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Rails
   # The Plugin class should be an object which provides the following methods:
   #

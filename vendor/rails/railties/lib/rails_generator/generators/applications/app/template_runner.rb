@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/scm/scm'
 require File.dirname(__FILE__) + '/scm/git'
 require File.dirname(__FILE__) + '/scm/svn'

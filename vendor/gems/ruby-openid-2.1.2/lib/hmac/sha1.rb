@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'hmac/hmac'
 require 'digest/sha1'
 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   class DynamicFinderMatch
     def self.match(method)

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class MigrationGenerator < Rails::Generator::NamedBase  
   def manifest
     record do |m|

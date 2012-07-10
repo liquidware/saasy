@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class MetalGenerator < Rails::Generator::NamedBase
   def manifest
     record do |m|

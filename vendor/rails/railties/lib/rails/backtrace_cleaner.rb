@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Rails
   class BacktraceCleaner < ActiveSupport::BacktraceCleaner
     ERB_METHOD_SIG = /:in `_run_erb_.*/

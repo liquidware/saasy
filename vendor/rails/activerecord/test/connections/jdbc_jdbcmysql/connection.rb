@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using MySQL via JRuby, activerecord-jdbc-adapter and activerecord-jdbcmysql-adapter\n"
 require_dependency 'models/course'
 require 'logger'

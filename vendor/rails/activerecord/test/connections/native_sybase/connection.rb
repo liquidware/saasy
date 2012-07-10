@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using native Sybase Open Client\n"
 require_dependency 'models/course'
 require 'logger'

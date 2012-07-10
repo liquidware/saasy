@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 if config.respond_to?(:gems)
   config.gem 'ruby-openid', :lib => 'openid', :version => '>=2.0.4'
 else

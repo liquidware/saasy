@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SessionsController < ApplicationController
   ssl_required :new, :create, :unless => SubConfig.test
   

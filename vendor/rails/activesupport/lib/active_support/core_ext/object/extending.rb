@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Object
   def remove_subclasses_of(*superclasses) #:nodoc:
     Class.remove_class(*subclasses_of(*superclasses))

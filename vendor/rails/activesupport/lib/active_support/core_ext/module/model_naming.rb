@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   class ModelName < String
     attr_reader :singular, :plural, :cache_key, :partial_path

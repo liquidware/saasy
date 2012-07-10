@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 =begin rdoc
 
 = interface.rb Provides an interface to the TMail object

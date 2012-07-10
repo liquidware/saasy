@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActionController::Routing::Routes.draw do |map|
   # Add your own custom routes here.
   # The priority is based upon order of creation: first created -> highest priority.

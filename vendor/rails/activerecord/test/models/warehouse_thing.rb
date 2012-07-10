@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class WarehouseThing < ActiveRecord::Base
   set_table_name "warehouse-things"
 

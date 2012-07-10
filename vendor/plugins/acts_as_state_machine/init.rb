@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'acts_as_state_machine'
 
 ActiveRecord::Base.class_eval do

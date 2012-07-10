@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class IntegrationGenerator < RubiGen::Base
   BASE_DIR = "lib/active_merchant/billing/integrations/"
   TEST_DIR = "test/unit/integrations/"

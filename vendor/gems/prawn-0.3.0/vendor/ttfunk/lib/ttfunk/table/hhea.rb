@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module TTFunk  
   class Table
     class Hhea < Table

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   if RUBY_VERSION >= '1.9'
     FrozenObjectError = RuntimeError

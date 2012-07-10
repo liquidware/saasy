@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 lib, version = File::basename(File::dirname(File::expand_path(__FILE__))).split %r/-/, 2
 

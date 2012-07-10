@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Job < ActiveRecord::Base
   has_many :references
   has_many :people, :through => :references

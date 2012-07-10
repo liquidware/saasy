@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 # measurement_extensions.rb: Core extensions for Prawn::Measurements
 #
 # Copyright December 2008, Florian Witteler.  All Rights Reserved.

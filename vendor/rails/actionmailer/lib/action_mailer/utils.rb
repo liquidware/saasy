@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActionMailer
   module Utils #:nodoc:
     def normalize_new_lines(text)

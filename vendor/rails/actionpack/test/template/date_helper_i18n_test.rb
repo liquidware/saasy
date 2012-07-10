@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'abstract_unit'
 
 class DateHelperDistanceOfTimeInWordsI18nTests < Test::Unit::TestCase

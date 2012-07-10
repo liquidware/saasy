@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveResource
   module Formats
     # Lookup the format class from a mime type reference symbol. Example:

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates Document#stroke_bounds, which will stroke a rectange outlining
 # the boundaries of the current bounding box.  This is useful for debugging

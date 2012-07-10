@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActiveRecord::Schema.define(:version => 1) do
   create_table :conversations, :force => true do |t|
     t.column :state_machine, :string

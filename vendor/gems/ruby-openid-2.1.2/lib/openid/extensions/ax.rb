@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Implements the OpenID attribute exchange specification, version 1.0
 
 require 'openid/extension'

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'openid/yadis/xrds'
 require 'openid/fetchers'
 

@@ -1,0 +1,6 @@
+<% title 'Edit stream' %>
+
+<% form_for :stream, @stream, :url=>stream_path(@stream), :html=>{:method=>:put} do |f| %>
+<%= render :partial => "stream", :locals => { :f => f } %>
+  <p class="input-button"><%= f.submit 'Update' %></p>
+<% end %>

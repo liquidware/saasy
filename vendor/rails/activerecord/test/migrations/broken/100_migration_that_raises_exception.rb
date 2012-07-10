@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class MigrationThatRaisesException < ActiveRecord::Migration
   def self.up
     add_column "people", "last_name", :string

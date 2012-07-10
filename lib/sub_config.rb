@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SubConfig  
   def self.load
     config_file = File.join(Rails.root, "config", "subscription.yml")

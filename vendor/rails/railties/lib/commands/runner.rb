@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'optparse'
 
 options = { :environment => (ENV['RAILS_ENV'] || "development").dup }

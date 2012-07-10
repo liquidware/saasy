@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates the use of the :col_span option when using Document#table
 #

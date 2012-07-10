@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # An early example of TTF font embedding.  Mostly kept for nostalgia's sake.
 #

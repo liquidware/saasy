@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This is to make their API a bit more like PaymentExpress's one
 class TrustCommerceResponse < ActiveMerchant::Billing::Response
   def token

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Be sure to restart your server when you modify this file
 
 # Uncomment below to force Rails into production mode when
@@ -9,6 +10,17 @@ RAILS_GEM_VERSION = '2.3.2' unless defined? RAILS_GEM_VERSION
 
 # Bootstrap the Rails environment, frameworks, and default configuration
 require File.join(File.dirname(__FILE__), 'boot')
+
+if Gem::VERSION >= "1.3.6" 
+    module Rails
+        class GemDependency
+            def requirement
+                r = super
+                (r == Gem::Requirement.default) ? nil : r
+            end
+        end
+    end
+end
 
 Rails::Initializer.run do |config|
   # Settings in config/environments/* take precedence over those specified here.

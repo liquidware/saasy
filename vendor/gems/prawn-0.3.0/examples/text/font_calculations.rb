@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 # 
 # This example is a demonstration of how Prawn does its text positioning,
 # meant to assist those that need to do advanced positioning calculations.

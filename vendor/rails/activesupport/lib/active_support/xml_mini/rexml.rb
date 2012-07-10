@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # = XmlMini ReXML implementation
 module ActiveSupport
   module XmlMini_REXML #:nodoc:

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
  
 # prawn.rb : A library for PDF generation in Ruby
 #

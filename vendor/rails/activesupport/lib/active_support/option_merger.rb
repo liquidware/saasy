@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   class OptionMerger #:nodoc:
     instance_methods.each do |method|

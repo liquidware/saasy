@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'active_merchant/billing/integrations/bogus/helper.rb'
 require 'active_merchant/billing/integrations/bogus/notification.rb'
 require 'active_merchant/billing/integrations/bogus/return.rb'

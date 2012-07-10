@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Padded box is a kind of bounding box which places padding on all sides of
 # the current bounds.  This is easier to see than explain, so please run the

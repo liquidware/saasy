@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/sage/sage_bankcard'
 require File.dirname(__FILE__) + '/sage/sage_virtual_check'
 

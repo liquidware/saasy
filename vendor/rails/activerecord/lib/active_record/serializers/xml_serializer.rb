@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord #:nodoc:
   module Serialization
     # Builds an XML document to represent the model. Some configuration is

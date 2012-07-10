@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example is mostly just for fun, and shows how nested bounding boxes
 # can simplify calculations.  See the other files in examples/bounding_box

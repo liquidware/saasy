@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/two_checkout/helper.rb'
 require File.dirname(__FILE__) + '/two_checkout/notification.rb'
 require File.dirname(__FILE__) + '/two_checkout/return.rb'

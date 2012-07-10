@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/modern_payments_cim'
 
 module ActiveMerchant #:nodoc:

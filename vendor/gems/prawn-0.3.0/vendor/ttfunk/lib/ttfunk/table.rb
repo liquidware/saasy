@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "ttfunk/table/directory"
 
 %w[cmap head hhea hmtx name kern maxp].each do |lib|

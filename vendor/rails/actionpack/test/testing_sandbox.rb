@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module TestingSandbox
   # Temporarily replaces KCODE for the block
   def with_kcode(kcode)

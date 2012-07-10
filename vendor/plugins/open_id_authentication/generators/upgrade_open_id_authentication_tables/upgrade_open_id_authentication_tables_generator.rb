@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class UpgradeOpenIdAuthenticationTablesGenerator < Rails::Generator::NamedBase
   def initialize(runtime_args, runtime_options = {})
     super

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # An early example of basic text generation at absolute positions.
 # Mostly kept for nostalgia.

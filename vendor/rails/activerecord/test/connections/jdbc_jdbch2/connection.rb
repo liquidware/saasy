@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using H2 via JRuby, activerecord-jdbc-adapter and activerecord-jdbch2-adapter\n"
 require_dependency 'models/course'
 require 'logger'

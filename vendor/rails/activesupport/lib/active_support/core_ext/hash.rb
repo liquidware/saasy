@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 %w(keys indifferent_access deep_merge reverse_merge conversions diff slice except).each do |ext|
   require "active_support/core_ext/hash/#{ext}"
 end

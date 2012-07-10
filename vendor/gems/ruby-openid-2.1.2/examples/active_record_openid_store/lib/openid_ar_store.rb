@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'association'
 require 'nonce'
 require 'openid/store/interface'

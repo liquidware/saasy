@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Conversation < ActiveRecord::Base
   attr_writer :can_close
   attr_accessor :read_enter, :read_exit, :read_after_first, :read_after_second,

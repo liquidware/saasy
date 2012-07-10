@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'openid/extensions/ax'
 require 'openid/message'
 require 'openid/consumer/responses'

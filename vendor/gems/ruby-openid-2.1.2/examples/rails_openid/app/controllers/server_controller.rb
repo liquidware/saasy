@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'pathname'
 
 # load the openid library, first trying rubygems

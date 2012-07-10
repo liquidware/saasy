@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Numeric
   # Converts this numeric to a Money object in the default currency. It
   # multiplies the numeric value by 100 and treats that as cents.

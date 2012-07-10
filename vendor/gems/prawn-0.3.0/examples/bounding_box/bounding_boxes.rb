@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example demonstrates the basic functionality of Prawn's bounding boxes.
 # Note that top level bounding boxes are positioned relative to the margin_box.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport #:nodoc:
   class OrderedOptions < OrderedHash #:nodoc:
     def []=(key, value)

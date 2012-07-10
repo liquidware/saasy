@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example demonstrates Document#lazy_bounding_box, which is used for
 # storing a set of drawing instructions to be executed later.  This is used

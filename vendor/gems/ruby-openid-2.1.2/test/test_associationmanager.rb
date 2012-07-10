@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "openid/consumer/associationmanager"
 require "openid/association"
 require "openid/dh"

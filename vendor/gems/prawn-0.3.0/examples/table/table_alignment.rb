@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates the many controls over alignment and positioning in Prawn
 # tables.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Contains the actual logic behind the plugin.
 class ValidatesEmailVeracityOf
 

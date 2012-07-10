@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant #:nodoc:
   module Billing #:nodoc:
     # See the remote and mocked unit test files for example usage.  Pay special attention to the contents of the options hash.

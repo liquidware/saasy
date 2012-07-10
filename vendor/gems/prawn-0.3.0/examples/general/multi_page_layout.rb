@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This demonstrates that Prawn can modify page size, margins and layout for 
 # each individual page, via Document#start_new_page()

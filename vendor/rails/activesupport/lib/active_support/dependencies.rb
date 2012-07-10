@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport #:nodoc:
   module Dependencies #:nodoc:
     extend self

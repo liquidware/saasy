@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # These helpers will be familiar to Ruport users, and now are supported
 # directly in Prawn.   Run the example to see how they work.

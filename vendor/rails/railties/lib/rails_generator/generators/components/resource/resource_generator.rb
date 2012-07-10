@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ResourceGenerator < Rails::Generator::NamedBase
   default_options :skip_timestamps => false, :skip_migration => false
 

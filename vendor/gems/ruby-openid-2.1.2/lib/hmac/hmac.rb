@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Copyright (C) 2001  Daiki Ueno <ueno@unixuser.org>
 # This library is distributed under the terms of the Ruby license.
 

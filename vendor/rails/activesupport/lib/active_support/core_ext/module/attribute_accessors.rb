@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Extends the module object with module and instance accessors for class attributes, 
 # just like the native attr* accessors for instance attributes.
 #

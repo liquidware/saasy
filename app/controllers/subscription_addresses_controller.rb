@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SubscriptionAddressesController < ApplicationController
   before_filter :login_required, :account_owner_required
   before_filter :find_subscription_address

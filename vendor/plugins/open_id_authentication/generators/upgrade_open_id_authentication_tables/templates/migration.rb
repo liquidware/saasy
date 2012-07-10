@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class <%= class_name %> < ActiveRecord::Migration
   def self.up
     drop_table :open_id_authentication_settings

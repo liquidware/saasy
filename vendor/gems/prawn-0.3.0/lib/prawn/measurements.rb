@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 # measurements.rb: Conversions from other measurements to PDF points
 #
 # Copyright December 2008, Florian Witteler.  All Rights Reserved.

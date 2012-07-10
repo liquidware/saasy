@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class AppConfig  
   def self.load
     config_file = File.join(Rails.root, "config", "application.yml")

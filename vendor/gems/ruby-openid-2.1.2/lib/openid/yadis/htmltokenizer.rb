@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # = HTMLTokenizer
 #
 # Author::    Ben Giddings  (mailto:bg-rubyforge@infofiend.com)

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/paypal_nv/paypal_nv_common_api'
 require File.dirname(__FILE__) + '/paypal_nv/paypal_express_nv_response'
 

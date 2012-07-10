@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "openid/consumer/checkid_request"
 require "openid/message"
 require "test/unit"

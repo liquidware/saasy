@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates basic image embedding and positioning functionality.
 # For positioning images alongside flowing text, see the image_flow.rb

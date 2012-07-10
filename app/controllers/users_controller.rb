@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class UsersController < ApplicationController
   before_filter :login_required, :except => [:new, :create, :activate]
   before_filter :account_owner_required, :only => [:index, :add_user, :unsuspend, :destroy]
@@ -6,6 +7,10 @@ class UsersController < ApplicationController
   
   def index
     @users = current_account.users.all
+  end
+
+  def create_stream
+	exec("ls")
   end
   
   def current

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'action_controller/performance_test'
 
 ActionController::Base.perform_caching = true

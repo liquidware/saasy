@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/payflow/payflow_common_api'
 require File.dirname(__FILE__) + '/payflow/payflow_response'
 require File.dirname(__FILE__) + '/payflow_express'

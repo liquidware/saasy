@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'active_merchant/billing/integrations/notification'
 require 'active_merchant/billing/integrations/helper'
 require 'active_merchant/billing/integrations/return'

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # cmap.rb : class for building ToUnicode CMaps for Type0 fonts
 #

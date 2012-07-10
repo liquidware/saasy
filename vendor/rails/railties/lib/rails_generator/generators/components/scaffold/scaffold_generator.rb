@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class ScaffoldGenerator < Rails::Generator::NamedBase
   default_options :skip_timestamps => false, :skip_migration => false, :force_plural => false
 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class InnocentJointable < ActiveRecord::Migration
   def self.up
     create_table("people_reminders", :id => false) do |t|

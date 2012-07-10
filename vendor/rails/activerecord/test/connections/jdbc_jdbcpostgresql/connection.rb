@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using Postgrsql via JRuby, activerecord-jdbc-adapter and activerecord-postgresql-adapter\n"
 require_dependency 'models/course'
 require 'logger'

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveResource
   # A module to support custom REST methods and sub-resources, allowing you to break out
   # of the "default" REST methods with your own custom resource requests.  For example,

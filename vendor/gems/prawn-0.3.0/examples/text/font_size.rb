@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example shows the many ways of setting font sizes in Prawn
 #

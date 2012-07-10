@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Member < ActiveRecord::Base
   has_one :current_membership
   has_many :memberships

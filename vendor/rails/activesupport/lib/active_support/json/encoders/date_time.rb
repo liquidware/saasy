@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class DateTime
   # Returns a JSON string representing the datetime. If ActiveSupport.use_standard_json_time_format is set to true, the
   # ISO 8601 format is used.

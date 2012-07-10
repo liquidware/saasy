@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class GatewayGenerator < RubiGen::Base
   LIB_DIR = "lib/active_merchant/billing/gateways/"
   UNIT_TEST_DIR = "test/unit/gateways/"

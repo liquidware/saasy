@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Deprecates the use of the former message interpolation syntax in activerecord
 # as in "must have %d characters". The new syntax uses explicit variable names
 # as in "{{value}} must have {{count}} characters".

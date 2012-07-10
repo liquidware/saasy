@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SessionMigrationGenerator < Rails::Generator::NamedBase
   def initialize(runtime_args, runtime_options = {})
     runtime_args << 'add_session_table' if runtime_args.empty?

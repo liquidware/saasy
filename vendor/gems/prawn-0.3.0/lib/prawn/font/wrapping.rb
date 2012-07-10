@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # wrapping.rb : Implementation of naive text wrap
 #

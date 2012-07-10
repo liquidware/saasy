@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module OpenID
   class Consumer
     # Code returned when either the of the

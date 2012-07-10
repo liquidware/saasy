@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Controller for handling the login, logout process for "users" of our
 # little server.  Users have no password.  This is just an example.
 

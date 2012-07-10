@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   # Inspired by the buffered logger idea by Ezra
   class BufferedLogger

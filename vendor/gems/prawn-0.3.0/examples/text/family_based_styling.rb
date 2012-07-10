@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example demonstrates using the :style option for Document#text.
 # If you are working with TTF fonts, you'll want to check out the 

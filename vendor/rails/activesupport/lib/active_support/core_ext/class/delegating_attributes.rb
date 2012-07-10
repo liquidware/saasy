@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # These class attributes behave something like the class
 # inheritable accessors.  But instead of copying the hash over at
 # the time the subclass is first defined,  the accessors simply

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'rbconfig'
 require File.dirname(__FILE__) + '/template_runner'
 require 'digest/md5' 

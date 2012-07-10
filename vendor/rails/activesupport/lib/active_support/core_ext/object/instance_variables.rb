@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Object
   # Available in 1.8.6 and later.
   unless respond_to?(:instance_variable_defined?)

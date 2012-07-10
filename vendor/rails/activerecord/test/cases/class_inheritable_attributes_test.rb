@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'test/unit'
 require "cases/helper"
 require 'active_support/core_ext/class/inheritable_attributes'

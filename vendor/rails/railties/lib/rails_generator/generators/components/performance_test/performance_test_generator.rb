@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class PerformanceTestGenerator < Rails::Generator::NamedBase
   default_options :skip_migration => false
 

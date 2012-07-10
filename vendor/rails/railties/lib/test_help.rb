@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Make double-sure the RAILS_ENV is set to test,
 # so fixtures are loaded to the right database
 silence_warnings { RAILS_ENV = "test" }

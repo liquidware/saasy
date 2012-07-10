@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'rails/vendor_gem_source_index'
 
 module Gem

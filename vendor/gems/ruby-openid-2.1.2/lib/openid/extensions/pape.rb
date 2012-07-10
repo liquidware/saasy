@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # An implementation of the OpenID Provider Authentication Policy
 # Extension 1.0
 # see: http://openid.net/specs/

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Use this migration to create the tables for the ActiveRecord store
 class AddOpenIdStoreToDb < ActiveRecord::Migration
   def self.up

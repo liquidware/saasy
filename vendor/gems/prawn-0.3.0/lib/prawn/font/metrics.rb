@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # metrics.rb : Font metrics parsers for AFM and TTF.
 #

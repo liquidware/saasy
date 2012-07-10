@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ENV['RAILS_ENV'] ||= 'sqlite3'
 require File.dirname(__FILE__) + '/rails_root/config/environment.rb'
  

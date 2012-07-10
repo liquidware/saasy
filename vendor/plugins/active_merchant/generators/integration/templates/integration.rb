@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/<%= name %>/helper.rb'
 require File.dirname(__FILE__) + '/<%= name %>/notification.rb'
 

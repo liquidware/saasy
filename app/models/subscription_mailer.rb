@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SubscriptionMailer < ActionMailer::Base
   def charge_failure(sub, message = nil)
     user = sub.account.owner

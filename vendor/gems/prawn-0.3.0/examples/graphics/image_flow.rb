@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates automated flowing and positioning of images, as well as
 # aligining images along the x-axis via the :position argument.  This is

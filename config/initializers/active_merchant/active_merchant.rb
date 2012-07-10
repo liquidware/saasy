@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActiveMerchant::Billing::Base.mode = :test if SubConfig.test
 $gateway = ActiveMerchant::Billing::Base.gateway(SubConfig.gateway).new(
               :login    => SubConfig.login, 

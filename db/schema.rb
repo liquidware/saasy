@@ -9,14 +9,15 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20081223192604) do
+ActiveRecord::Schema.define(:version => 20120709013202) do
+
   create_table "accounts", :force => true do |t|
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "owner_id"
-    t.string   "state",             :default => "pending"
+    t.string   "state",      :default => "pending"
   end
-  
+
   create_table "open_id_authentication_associations", :force => true do |t|
     t.integer "issued"
     t.integer "lifetime"
@@ -30,6 +31,16 @@ ActiveRecord::Schema.define(:version => 20081223192604) do
     t.integer "timestamp",  :null => false
     t.string  "server_url"
     t.string  "salt",       :null => false
+  end
+
+  create_table "streams", :force => true do |t|
+    t.string   "name"
+    t.string   "pid"
+    t.string   "status"
+    t.string   "sink"
+    t.string   "source"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "subscription_addresses", :force => true do |t|
@@ -92,4 +103,5 @@ ActiveRecord::Schema.define(:version => 20081223192604) do
 
   add_index "users", ["email"], :name => "index_users_on_email"
   add_index "users", ["identity_url"], :name => "index_users_on_identity_url"
+
 end

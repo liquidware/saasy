@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # errors.rb : Implements custom error classes for Prawn
 #

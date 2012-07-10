@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant #:nodoc:  
   module Validateable #:nodoc:
     def valid?

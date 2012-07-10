@@ -1,4 +1,4 @@
-# encoding: utf-8       
+# -*- encoding : utf-8 -*-
 # 
 # Multi-faceted example that demonstrates a document flowing between header
 # and footer regions.  At the moment, headers and footers in Prawn are run

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using Derby via JRuby, activerecord-jdbc-adapter and activerecord-jdbcderby-adapter\n"
 require_dependency 'models/course'
 require 'logger'

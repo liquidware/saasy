@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module BillingHelper  
   def card_types           
     types = [

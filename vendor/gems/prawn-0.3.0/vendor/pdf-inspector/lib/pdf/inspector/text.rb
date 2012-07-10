@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module PDF
   class Inspector
     class Text < Inspector                    

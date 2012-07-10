@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "rubygems"
 require "pdf/reader"
 require "pdf/inspector/text" 

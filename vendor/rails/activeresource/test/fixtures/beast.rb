@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class BeastResource < ActiveResource::Base
   self.site = 'http://beast.caboo.se'
   site.user = 'foo'

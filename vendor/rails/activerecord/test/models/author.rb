@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Author < ActiveRecord::Base
   has_many :posts
   has_many :posts_with_comments, :include => :comments, :class_name => "Post"

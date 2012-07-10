@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActiveRecord::Schema.define do
   create_table :binary_fields, :force => true, :options => 'CHARACTER SET latin1' do |t|
     t.binary :tiny_blob,   :limit => 255

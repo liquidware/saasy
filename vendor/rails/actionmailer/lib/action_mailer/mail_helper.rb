@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module MailHelper
   # Uses Text::Format to take the text and format it, indented two spaces for
   # each line, and wrapped at 72 columns.

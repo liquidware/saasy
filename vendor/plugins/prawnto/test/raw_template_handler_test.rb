@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # uncomment and edit below if you want to get off gem version
 #$LOAD_PATH.unshift '~/cracklabs/vendor/gems/prawn-0.0.0.1/lib/'  #to force picup of latest prawn (instead of stable gem)
 

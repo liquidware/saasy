@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class MissingSourceFile < LoadError #:nodoc:
   attr_reader :path
   def initialize(message, path)

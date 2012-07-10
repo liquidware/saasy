@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class PluginGenerator < Rails::Generator::NamedBase
   attr_reader :plugin_path
 

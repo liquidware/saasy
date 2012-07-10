@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Shows that Prawn works out of the box with UTF-8 text, so long as you use
 # a TTF file with the necessary glyphs for your content.

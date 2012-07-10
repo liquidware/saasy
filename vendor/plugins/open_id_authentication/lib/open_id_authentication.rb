@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'uri'
 require 'openid/extensions/sreg'
 require 'openid/extensions/ax'

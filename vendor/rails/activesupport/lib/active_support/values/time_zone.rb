@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # The TimeZone class serves as a wrapper around TZInfo::Timezone instances. It allows us to do the following:
 #
 # * Limit the set of zones provided by TZInfo to a meaningful subset of 142 zones.

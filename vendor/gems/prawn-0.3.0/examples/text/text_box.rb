@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # A text box is positioned by a top-left corner, width, and height and is
 # essentially an invisible rectangle that the text wil lflow within.  If the

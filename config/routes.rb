@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActionController::Routing::Routes.draw do |map|
   # Sessions
   map.logout '/logout', :controller => "sessions", :action => "destroy"
@@ -18,6 +19,7 @@ ActionController::Routing::Routes.draw do |map|
                   :member => {
                     :unsuspend => :post
                   }
+
   map.open_id_complete "users", :controller => "users", :action => "create", :requirements => { :method => :get }
   
   map.resource :billing, :controller => "billing", :collection => { 
@@ -29,6 +31,8 @@ ActionController::Routing::Routes.draw do |map|
   
   map.resource :subscriptions
   map.resource :subscription_addresses
+
+  map.resources :streams
 
   # The priority is based upon order of creation: first created -> highest priority.
 
@@ -62,7 +66,7 @@ ActionController::Routing::Routes.draw do |map|
   #   end
 
   # You can have the root of your site routed with map.root -- just remember to delete public/index.html.
-  map.root :controller => "users", :action => "show"
+  map.root :controller => "streams", :action => "index"
 
   # See how all your routes lay out with "rake routes"
 

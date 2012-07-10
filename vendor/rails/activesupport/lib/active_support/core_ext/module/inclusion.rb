@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Module
   # Returns the classes in the current ObjectSpace where this module has been
   # mixed in according to Module#included_modules.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module DeveloperProjectsAssociationExtension
   def find_most_recent
     find(:first, :order => "id DESC")

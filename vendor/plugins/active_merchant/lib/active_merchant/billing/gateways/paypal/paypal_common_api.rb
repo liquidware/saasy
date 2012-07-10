@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant #:nodoc:
   module Billing #:nodoc:
     # This module is included in both PaypalGateway and PaypalExpressGateway

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Low level cell and row implementation, which form the basic building
 # blocks for Prawn tables.  Only necessary to know about if you plan on

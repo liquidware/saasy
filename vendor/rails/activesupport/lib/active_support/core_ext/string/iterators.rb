@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'strscan'
 
 module ActiveSupport #:nodoc:

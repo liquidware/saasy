@@ -1,3 +1,7 @@
+# -*- encoding : utf-8 -*-
+#!/bin/env ruby
+# encoding: utf-8
+
 module ActiveMerchant #:nodoc:
   class InvalidCountryCodeError < StandardError
   end

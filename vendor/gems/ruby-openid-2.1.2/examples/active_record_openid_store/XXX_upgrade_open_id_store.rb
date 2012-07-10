@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Use this migration to upgrade the old 1.1 ActiveRecord store schema
 # to the new 2.0 schema.
 class UpgradeOpenIdStore < ActiveRecord::Migration

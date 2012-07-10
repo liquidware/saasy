@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates explicitly setting the :header_color rather than inferring
 # it from :row_colors in Document#table

@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # pdf_object.rb : Handles Ruby to PDF object serialization
 #

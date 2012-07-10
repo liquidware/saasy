@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #
 # In order for this test to pass, a valid store number and PEM file 
 # are required. Unfortunately, with LinkPoint YOU CAN'T JUST USE ANY 

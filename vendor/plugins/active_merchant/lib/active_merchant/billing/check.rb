@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant #:nodoc:
   module Billing #:nodoc:
     # The Check object is a plain old Ruby object, similar to CreditCard. It supports validation

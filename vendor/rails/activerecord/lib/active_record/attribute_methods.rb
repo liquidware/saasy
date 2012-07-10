@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   module AttributeMethods #:nodoc:
     DEFAULT_SUFFIXES = %w(= ? _before_type_cast)

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Prawn
   class Document
     def float(point, options = {}, &block)

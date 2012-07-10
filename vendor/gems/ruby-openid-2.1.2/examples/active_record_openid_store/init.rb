@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # might using the ruby-openid gem
 begin
   require 'rubygems'

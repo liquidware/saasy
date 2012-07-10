@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Add a +missing_name+ method to NameError instances.
 class NameError #:nodoc:  
   # Add a method to obtain the missing name from a NameError.

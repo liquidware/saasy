@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SetterTrap < ActiveSupport::BasicObject
   class << self
     def rollback_sets(obj)

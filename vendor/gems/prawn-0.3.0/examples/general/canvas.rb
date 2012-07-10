@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates how to enable absolute positioning in Prawn by temporarily
 # removing the margin_box via Document#canvas()

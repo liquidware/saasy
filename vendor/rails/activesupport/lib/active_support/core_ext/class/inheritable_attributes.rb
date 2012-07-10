@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Retain for backward compatibility.  Methods are now included in Class.
 module ClassInheritableAttributes # :nodoc:
 end

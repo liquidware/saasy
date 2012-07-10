@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This class has dubious semantics and we only have it so that
 # people can write params[:key] instead of params['key']
 # and they get the same value for both keys.

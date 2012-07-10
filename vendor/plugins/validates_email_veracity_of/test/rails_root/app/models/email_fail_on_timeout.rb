@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class EmailFailOnTimeout < ActiveRecord::Base
   
   set_table_name :emails

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class GiveMeBigNumbers < ActiveRecord::Migration
   def self.up
     create_table :big_numbers do |table|

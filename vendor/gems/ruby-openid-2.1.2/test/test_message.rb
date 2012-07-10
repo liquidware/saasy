@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # last synced with Python openid.test.test_message on 6/29/2007.
 
 require 'test/unit'

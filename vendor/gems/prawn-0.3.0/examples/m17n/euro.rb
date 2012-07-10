@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # As of Prawn 0.3, it is possible to generate a Euro using the built-in
 # AFM files.  However, you need to be sure to manually add spacing around it,

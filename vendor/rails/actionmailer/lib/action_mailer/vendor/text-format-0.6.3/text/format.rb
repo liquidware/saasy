@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #--
 # Text::Format for Ruby
 # Version 0.63

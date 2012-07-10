@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   module NamedScope
     # All subclasses of ActiveRecord::Base have one named scope:

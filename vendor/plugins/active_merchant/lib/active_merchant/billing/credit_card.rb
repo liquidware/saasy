@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'time'
 require 'date'
 require 'active_merchant/billing/expiry_date'

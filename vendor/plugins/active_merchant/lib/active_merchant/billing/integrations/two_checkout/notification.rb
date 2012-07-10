@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'net/http'
 require 'base64'
 require 'digest/md5'

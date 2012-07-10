@@ -1,0 +1,23 @@
+<% title 'Streams' %>
+
+<table border="0" width="100%">
+  <tr>
+    <th>Name</th>
+    <th>Pid</th>
+    <th>Status</th>
+    <th width="200px">Actions</th>
+  </tr>
+  <% @streams.each do |stream| %>
+    <tr>
+      <td><%= stream.name %></td>
+      <td><%= stream.pid %></td>
+      <td><%= stream.status %></td>
+      <td>
+        <%= link_to 'Show', stream %>
+      </td>
+    </tr>
+  <% end %>
+</table>
+
+<h1>Streams#index</h1>
+<p>Find me in app/views/streams/index.html.erb</p>

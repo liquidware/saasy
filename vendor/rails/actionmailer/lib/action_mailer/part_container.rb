@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActionMailer
   # Accessors and helpers that ActionMailer::Base and ActionMailer::Part have
   # in common. Using these helpers you can easily add subparts or attachments

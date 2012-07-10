@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'money/variable_exchange_bank'
 
 # Represents an amount of money in a certain currency.

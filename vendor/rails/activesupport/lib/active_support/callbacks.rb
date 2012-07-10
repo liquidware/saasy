@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   # Callbacks are hooks into the lifecycle of an object that allow you to trigger logic
   # before or after an alteration of the object state.

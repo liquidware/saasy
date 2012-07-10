@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "openid/kvpost"
 require "openid/kvform"
 require "openid/message"

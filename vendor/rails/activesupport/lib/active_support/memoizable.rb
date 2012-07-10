@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   module Memoizable
     def self.memoized_ivar_for(symbol)

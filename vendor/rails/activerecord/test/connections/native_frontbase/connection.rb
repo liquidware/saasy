@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 puts 'Using native Frontbase'
 require_dependency 'models/course'
 require 'logger'

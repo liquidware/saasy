@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class WeNeedReminders < ActiveRecord::Migration
   def self.up
     create_table("reminders") do |t|

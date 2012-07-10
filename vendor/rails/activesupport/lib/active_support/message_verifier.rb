@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   # MessageVerifier makes it easy to generate and verify messages which are signed
   # to prevent tampering.

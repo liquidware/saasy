@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This file contains functions and classes used for extracting
 # endpoint information out of a Yadis XRD file using the REXML
 # XML parser.

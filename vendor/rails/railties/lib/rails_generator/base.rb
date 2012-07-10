@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/options'
 require File.dirname(__FILE__) + '/manifest'
 require File.dirname(__FILE__) + '/spec'

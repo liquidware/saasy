@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant #:nodoc:
   module RequiresParameters #:nodoc:
     def requires!(hash, *params)

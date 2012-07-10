@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # annotations.rb : Implements low-level annotation support for PDF
 #

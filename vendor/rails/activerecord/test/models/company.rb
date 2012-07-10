@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class AbstractCompany < ActiveRecord::Base
   self.abstract_class = true
 end

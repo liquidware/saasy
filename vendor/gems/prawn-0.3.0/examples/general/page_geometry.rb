@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This demonstrates basic page layout and landscape options for Prawn
 # documents.  The style used here is a bit out of date, see 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'active_support/core_ext/array/access'
 require 'active_support/core_ext/array/conversions'
 require 'active_support/core_ext/array/extract_options'

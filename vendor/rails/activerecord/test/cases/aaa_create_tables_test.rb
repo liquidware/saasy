@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # The filename begins with "aaa" to ensure this is the first test.
 require "cases/helper"
 

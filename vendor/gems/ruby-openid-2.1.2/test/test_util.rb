@@ -1,4 +1,4 @@
-# coding: ASCII-8BIT
+# -*- encoding : utf-8 -*-
 require 'test/unit'
 
 require "openid/util"

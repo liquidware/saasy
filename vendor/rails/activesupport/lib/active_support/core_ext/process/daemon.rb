@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 if RUBY_VERSION < "1.9"
   module Process
     def self.daemon(nochdir = nil, noclose = nil)

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ScottBarron                   #:nodoc:
   module Acts                        #:nodoc:
     module StateMachine              #:nodoc:

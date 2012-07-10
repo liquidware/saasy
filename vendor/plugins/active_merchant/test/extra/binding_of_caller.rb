@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Continuation # :nodoc:
   def self.create(*args, &block) # :nodoc:
     cc = nil; result = callcc {|c| cc = c; block.call(cc) if block and args.empty?}

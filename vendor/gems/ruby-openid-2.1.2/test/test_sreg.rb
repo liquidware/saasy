@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'openid/extensions/sreg'
 require 'openid/message'
 require 'openid/server'

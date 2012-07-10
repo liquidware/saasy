@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "openid/kvform"
 require "openid/util"
 require "openid/cryptutil"

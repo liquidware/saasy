@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 print "Using HSQLDB via JRuby, activerecord-jdbc-adapter and activerecord-jdbchsqldb-adapter\n"
 require_dependency 'models/course'
 require 'logger'

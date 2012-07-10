@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 # 
 # Basic text flowing example including the use of bounding boxes.  A somewhat
 # old example, mostly retained for nostalgia.

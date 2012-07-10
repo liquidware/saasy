@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'prawnto'
 
 Mime::Type.register "application/pdf", :pdf

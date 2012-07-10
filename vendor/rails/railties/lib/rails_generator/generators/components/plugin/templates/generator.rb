@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class <%= class_name %>Generator < Rails::Generator::NamedBase
   def manifest
     record do |m|

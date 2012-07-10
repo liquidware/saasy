@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'active_merchant/billing/integrations/paypal/helper.rb'
 require 'active_merchant/billing/integrations/paypal/notification.rb'
 require 'active_merchant/billing/integrations/paypal/return.rb'

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'openid/extension'
 require 'openid/message'
 require 'test/unit'

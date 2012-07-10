@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "cases/helper"
 require 'models/contact'
 require 'models/post'

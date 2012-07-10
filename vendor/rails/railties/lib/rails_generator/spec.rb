@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Rails
   module Generator
     # A spec knows where a generator was found and how to instantiate it.

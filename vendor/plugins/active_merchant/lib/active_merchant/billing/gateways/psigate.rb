@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #  This class implements the Psigate gateway for the ActiveMerchant module.
 #  Psigate = http://www.psigate.com/ The class  is currently set up to use
 #  the psigate test server while rails is in testing or developement mode.

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class SubscriptionAddress < ActiveRecord::Base
   belongs_to :subscription
   

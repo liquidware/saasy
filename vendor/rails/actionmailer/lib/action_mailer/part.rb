@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActionMailer
   # Represents a subpart of an email message. It shares many similar
   # attributes of ActionMailer::Base.  Although you can create parts manually

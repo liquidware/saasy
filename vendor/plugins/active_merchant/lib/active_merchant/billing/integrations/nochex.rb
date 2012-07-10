@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/nochex/helper.rb'
 require File.dirname(__FILE__) + '/nochex/notification.rb'
 require File.dirname(__FILE__) + '/nochex/return.rb'

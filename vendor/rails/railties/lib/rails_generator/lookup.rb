@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'pathname'
 
 require File.dirname(__FILE__) + '/spec'

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   # Allows programmers to programmatically define a schema in a portable
   # DSL. This means you can define tables, indexes, etc. without using SQL

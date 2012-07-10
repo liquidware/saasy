@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class String
   def starts_with?(other)
     head = self[0, other.length]

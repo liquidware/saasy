@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/sage_core'
 
 module ActiveMerchant #:nodoc:

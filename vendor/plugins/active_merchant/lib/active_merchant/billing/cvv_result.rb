@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant
   module Billing
     # Result of the Card Verification Value check

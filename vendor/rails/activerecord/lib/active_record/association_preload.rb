@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveRecord
   # See ActiveRecord::AssociationPreload::ClassMethods for documentation.
   module AssociationPreload #:nodoc:

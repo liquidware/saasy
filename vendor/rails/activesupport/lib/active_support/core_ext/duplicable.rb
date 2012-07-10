@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Object
   # Can you safely .dup this object?
   # False for nil, false, true, symbols, and numbers; true otherwise.

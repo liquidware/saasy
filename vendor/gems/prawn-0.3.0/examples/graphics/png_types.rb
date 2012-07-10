@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # PNG files come in different flavours - 5 of them. This example embeds
 # one of each type as proof that they all work.

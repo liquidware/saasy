@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveSupport
   # Rescuable module adds support for easier exception handling.
   module Rescuable

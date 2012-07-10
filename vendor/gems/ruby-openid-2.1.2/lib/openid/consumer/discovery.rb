@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Functions to discover OpenID endpoints from identifiers.
 
 require 'uri'

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Module
   # Synchronize access around a method, delegating synchronization to a
   # particular mutex. A mutex (either a Mutex, or any object that responds to 

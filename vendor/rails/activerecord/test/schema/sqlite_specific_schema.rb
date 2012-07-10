@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 ActiveRecord::Schema.define do
   # For sqlite 3.1.0+, make a table with a autoincrement column
   if supports_autoincrement?

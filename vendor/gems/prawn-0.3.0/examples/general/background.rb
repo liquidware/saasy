@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # This example demonstrates the use of the new :background option when
 # generating a new Document.  Image is assumed to be pre-fit for your page

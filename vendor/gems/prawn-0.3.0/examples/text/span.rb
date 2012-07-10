@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstration of Document#span, which is used for generating flowing
 # columns of text.

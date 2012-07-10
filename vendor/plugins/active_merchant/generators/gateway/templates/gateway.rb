@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveMerchant #:nodoc:
   module Billing #:nodoc:
     class <%= class_name %>Gateway < Gateway

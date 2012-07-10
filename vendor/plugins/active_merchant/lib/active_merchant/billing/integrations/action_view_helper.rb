@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require_library_or_gem 'action_pack'
 
 module ActiveMerchant #:nodoc:

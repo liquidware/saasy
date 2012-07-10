@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'active_resource/connection'
 require 'cgi'
 require 'set'

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Kernel
   # Require a library with fallback to RubyGems.  Warnings during library
   # loading are silenced to increase signal/noise for application warnings.

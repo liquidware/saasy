@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Subscriber < ActiveRecord::Base
   set_primary_key 'nick'
   has_many :subscriptions

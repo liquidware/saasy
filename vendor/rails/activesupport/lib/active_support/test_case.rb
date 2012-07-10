@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 begin
   gem 'mocha', '>= 0.9.3'
   require 'mocha'

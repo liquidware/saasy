@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 unless :to_proc.respond_to?(:to_proc)
   class Symbol
     # Turns the symbol into a simple proc, which is especially useful for enumerations. Examples:

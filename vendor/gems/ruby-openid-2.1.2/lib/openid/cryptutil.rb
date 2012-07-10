@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "openid/util"
 require "digest/sha1"
 require "digest/sha2"

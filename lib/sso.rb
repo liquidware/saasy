@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Simple SSO - Alex MacCaw - info@eribium.org
 # 
 # This is something I wrote so all my Rails

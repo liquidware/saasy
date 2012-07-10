@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 #
 # Demonstrates fitting an image within a rectangular width and height.
 # The image will be scaled down to fit within the box, while preserving

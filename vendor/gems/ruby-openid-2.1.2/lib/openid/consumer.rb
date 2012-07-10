@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require "openid/consumer/idres.rb"
 require "openid/consumer/checkid_request.rb"
 require "openid/consumer/associationmanager.rb"

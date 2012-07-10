@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- encoding : utf-8 -*-
 
 # reference.rb : Implementation of PDF indirect objects
 #

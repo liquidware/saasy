@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # With help from Giovanni Intini and his code for RGestPay - http://medlar.it/it/progetti/rgestpay
 
 require File.dirname(__FILE__) + '/gestpay/common.rb'

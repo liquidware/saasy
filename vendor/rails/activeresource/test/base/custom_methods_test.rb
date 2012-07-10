@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'abstract_unit'
 require 'fixtures/person'
 require 'fixtures/street_address'

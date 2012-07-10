@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class <%= class_name %> < ActionMailer::Base
   
 <% for action in actions -%>

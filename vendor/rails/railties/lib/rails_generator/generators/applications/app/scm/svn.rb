@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Rails
   class Svn < Scm
     def self.checkout(repos, branch = nil)

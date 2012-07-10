@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Object
   # Get object's meta (ghost, eigenclass, singleton) class
   def metaclass

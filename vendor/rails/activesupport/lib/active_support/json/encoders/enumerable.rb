@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Enumerable
   # Returns a JSON string representing the enumerable. Any +options+
   # given will be passed on to its elements. For example:

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 irb = RUBY_PLATFORM =~ /(:?mswin|mingw)/ ? 'irb.bat' : 'irb'
 
 require 'optparse'
