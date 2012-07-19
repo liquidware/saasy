@@ -1,0 +1,39 @@
+<% form_for :advert, @advert, :url=>advert_path(@advert), :html=>{:method=>:put, :multipart => true} do |f| %>
+
+<div class="existingPaperclipFiles">
+
+	<% f.fields_for :assets do |asset| %>
+
+	<div style="float:left;">
+		<div>
+			<% unless asset.object.new_record? %>
+
+				<%= link_to( image_tag(asset.object.source.url(:thumb)), asset.object.source.url(:original) ) %>
+				<div>
+					<!--
+					<div style="float:left;">
+						<%= asset.check_box :_delete %> 
+					</div>
+					delete?
+					-->
+				</div>
+				<%= asset.file_field :source %>
+
+			<% end %>
+
+			<% if asset.object.new_record? %>
+				<%= asset.file_field :source %>
+			<% end %>
+		</div>
+	</div>
+
+	<% end %>
+	
+	<div style="float:right;">
+		<p class="input-button">
+			<%= f.submit 'Update' %>
+		</p>
+	</div>
+</div>
+
+<% end %>
